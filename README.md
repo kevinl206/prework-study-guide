@@ -1,5 +1,3 @@
-
-feature/project-README
 # <Prework Study Guide Webpage>
 
 ## Description
